@@ -35,7 +35,8 @@
  k) GarageYrBlt
  Lets calculate correlation among all these variables:
 
-![image](https://github.com/nitimasaigal/Project-3--EDA-for-Housing-Data/assets/146649752/de835241-3808-42a5-af64-05d3801c4b23)
+![image](https://github.com/nitimasaigal/Project-3---EDA-on-Housing-Data/assets/146649752/3577ee02-d4e6-40cc-95f2-9b7e346c728d)
+
 
 
 10. Contact Information:
